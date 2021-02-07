@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ольга Волкова](https://up.htmlacademy.ru/htmlcss/30/user/1647161).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Корбут](https://htmlacademy.ru/profile/kotovyy).
 
 ---
 
